@@ -1,0 +1,8 @@
+Membership Number : 1
+Membership type is : StudentMember 
+Name is : praneeth
+Membership start date is : 11/11/2019
+Membership Number : 2
+Membership type is : Over 60 Member 
+Name is : ddds
+Membership start date is : 15/14/2020
